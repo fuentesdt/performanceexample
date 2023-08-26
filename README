@@ -1,0 +1,20 @@
+
+Example output
+==============
+
+
+>> driver
+run 1
+Elapsed time is 5.617846 seconds.
+run 2
+Elapsed time is 4.291330 seconds.
+run 3
+Elapsed time is 4.280777 seconds.
+run 4
+Elapsed time is 4.359374 seconds.
+run 5
+Elapsed time is 6231.370645 seconds.
+run 6
+Elapsed time is 8659.349802 seconds.
+run 7
+Elapsed time is 8350.678238 seconds.
